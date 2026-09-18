@@ -2,7 +2,7 @@
 
 A one page range card for indirect fire. Paste your gun coordinates, paste your targets, read the distance to each one. Nothing else.
 
-**[Open it here](ADD_YOUR_GITHUB_PAGES_LINK)**
+**[Open it here](https://dev-rodion.github.io/range-card/)**
 
 ## Why
 
